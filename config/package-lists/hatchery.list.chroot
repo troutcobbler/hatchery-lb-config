@@ -1,0 +1,20 @@
+console-setup locales
+network-manager
+xorg xwayland
+dk sxhkd goober eww suckless-tools rofi conky-all brightnessctl pamixer lxappearance librsvg2-common feh xautolock scrot
+sway swayidle swaylock grimshot wlsunset libglib2.0-bin eww-wayland
+gvfs gvfs-backends thunar-volman thunar-archive-plugin tumbler pavucontrol pipewire-pulse wireplumber xfce4-terminal gnome-keyring gnome-themes-extra engrampa zip unzip eject
+firefox-esr
+usbmuxd
+vim git tmux tree
+nvme-cli
+rsync
+redshift
+libblockdev-crypto2
+fonts-hack fonts-inter nerdfont-hack-regular
+fishbones fishbones-live hatchery-skel hatchery-backgrounds
+user-setup
+sudo
+cryptsetup-initramfs zstd
+efibootmgr os-prober
+calamares-settings-hatchery gparted btrfs-progs squashfs-tools dosfstools wpasupplicant

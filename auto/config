@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+	--apt-recommends false \
+	--archive-areas "main contrib non-free non-free-firmware" \
+	--apt-indices false \
+	--debian-installer live \
+	--debian-installer-gui false \
+	--debian-installer-distribution bookworm \
+	--distribution bookworm \
+	--debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
+	--image-name pecos-052823 \
+	--iso-volume pecos-052823 \
+	--memtest none \
+	--win32-loader false \
+	--zsync false \
+	"${@}"
