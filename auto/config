@@ -11,8 +11,8 @@ lb config noauto \
 	--debian-installer-distribution bookworm \
 	--distribution bookworm \
 	--debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
-	--image-name pecos-072323 \
-	--iso-volume pecos-072323 \
+	--image-name pecos-083023 \
+	--iso-volume pecos-083023 \
 	--memtest none \
 	--win32-loader false \
 	--zsync false \
