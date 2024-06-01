@@ -2,7 +2,7 @@ console-setup locales
 network-manager
 xorg xwayland
 dk sxhkd goober eww suckless-tools rofi conky-all brightnessctl pamixer nwg-look librsvg2-common feh xautolock scrot
-sway swaybg swayidle swaylock grimshot wlsunset wlr-randr eww-wayland
+sway swaybg swayidle swaylock grimshot wlsunset wlr-randr
 gvfs gvfs-backends thunar-volman thunar-archive-plugin tumbler pavucontrol pipewire-pulse wireplumber xfce4-terminal gnome-keyring gnome-themes-extra engrampa zip unzip eject
 firefox-esr
 usbmuxd
