@@ -9,7 +9,7 @@ vim git tmux tree
 nvme-cli
 rsync
 redshift
-libblockdev-crypto2
+libblockdev-crypto3
 fonts-hack fonts-inter nerdfont-hack-regular
 fishbones fishbones-live hatchery-skel hatchery-backgrounds
 user-setup
