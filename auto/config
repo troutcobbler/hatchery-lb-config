@@ -8,11 +8,11 @@ lb config noauto \
 	--apt-indices false \
 	--debian-installer live \
 	--debian-installer-gui false \
-	--debian-installer-distribution bookworm \
-	--distribution bookworm \
+	--debian-installer-distribution trixie \
+	--distribution trixie \
 	--debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
-	--image-name pecos-111924 \
-	--iso-volume pecos-111924 \
+	--image-name gila-040725 \
+	--iso-volume gila-040725 \
 	--memtest none \
 	--win32-loader false \
 	--zsync false \

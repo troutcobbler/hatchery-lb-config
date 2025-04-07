@@ -1,0 +1,5 @@
+deb https://apt.hatcherylinux.org pecos main
+#deb-src https://apt.hatcherylinux.org pecos main
+
+deb https://testing.hatcherylinux.org gila main
+#deb-src https://testing.hatcherylinux.org gila main
