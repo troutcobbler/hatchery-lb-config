@@ -1,0 +1,7 @@
+#
+# can probably remove this file when live-build, debian-installer, & calamares catch up
+#
+firmware-mediatek
+firmware-iwlwifi
+firmware-intel-graphics
+firmware-sof-signed
