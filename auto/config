@@ -11,8 +11,8 @@ lb config noauto \
 	--debian-installer-distribution trixie \
 	--distribution trixie \
 	--debootstrap-options "--include=apt-transport-https,ca-certificates,openssl" \
-	--image-name gila-040825 \
-	--iso-volume gila-040825 \
+	--image-name gila-041125 \
+	--iso-volume gila-041125 \
 	--memtest none \
 	--win32-loader false \
 	--zsync false \
