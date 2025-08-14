@@ -1,2 +1,2 @@
-deb https://testing.hatcherylinux.org gila main
-#deb-src https://testing.hatcherylinux.org gila main
+deb https://apt.hatcherylinux.org gila main
+#deb-src https://apt.hatcherylinux.org gila main
