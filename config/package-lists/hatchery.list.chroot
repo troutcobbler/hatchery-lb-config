@@ -1,7 +1,7 @@
 console-setup locales
 network-manager bluez
 xwayland
-hyprland quickshell swayidle swaylock rofi brightnessctl brightness-udev nwg-look librsvg2-common grim slurp wl-clipboard
+mangowc quickshell swayidle swaylock rofi brightnessctl brightness-udev nwg-look librsvg2-common grim slurp wl-clipboard
 gvfs gvfs-backends thunar-volman thunar-archive-plugin tumbler pavucontrol pipewire-pulse wireplumber xfce4-terminal gnome-keyring gnome-themes-extra engrampa zip unzip eject
 firefox-esr
 usbmuxd
